@@ -1,1 +1,1 @@
-# freebsd-starter-kit.github.io
+# FreeBSD Starter Kit
